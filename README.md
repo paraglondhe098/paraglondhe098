@@ -8,7 +8,7 @@
 
 ### 🤝Reach me out
   <a href="https://www.linkedin.com/in/parag4141/">
-  <img align="left" src="images/svg2linkedin.svg" alt="Parag | LinkedIn" width="21px"/>
+  <img align="left" src="images/icons8-linkedin (1).svg" alt="Parag | LinkedIn" width="21px"/>
   </a>
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
