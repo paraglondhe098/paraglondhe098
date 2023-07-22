@@ -1,5 +1,12 @@
-### Hi there 👋
+## 🥷Hi there, I'm Parag 👋
 
+### About me
+* ⚙️ I’m currently working on NLP and Transformer neural networks
+* 🤖 I'm currently learning Machine Learning and Artificial intelligence.
+* 🧬 Interested to explore NEAT (Neuroevolution of Augmenting topologies) to train AI in 3d simulation.
+* 🪸 Also a 3D animator.
+
+### 🤝Reach me out
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
