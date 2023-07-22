@@ -7,6 +7,10 @@
 * 🪸 Also a 3D animator.
 
 ### 🤝Reach me out
+  <img title="a title" alt="Alt text" src="main/images/linkedin.png">
+  <a href="https://www.linkedin.com/in/parag4141/">
+  <img title="a title" align ="left" src="images/linkedin.png" alt="main/icon/LinkedIn” width= "21px" />
+  </a>
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
