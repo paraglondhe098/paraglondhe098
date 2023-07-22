@@ -3,7 +3,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Kisspng-technology-robotic-arm-technology-robot-hand-5a70391a1f08f3.6239990715173040901271_%281%29.png" alt="Parag | LinkedIn" width="100px"/>
   </a>
   
-## Hi there, I'm Parag 👋
+## Hi there, I'm Parag 👋                                                                                                                            
 
 ### About me
 * ⚙️ I’m currently working on NLP and Transformer neural networks
