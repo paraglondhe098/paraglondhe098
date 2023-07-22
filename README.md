@@ -6,15 +6,15 @@
 * 🧬 Interested to explore NEAT (Neuroevolution of Augmenting topologies) to train AI in 3d simulation.
 * 🪸 Also a 3D animator.
 
-### 🤝Reach me out
-  <a href="https://www.linkedin.com/in/parag4141/">
-  <img align="left" src="images/icons8-linkedin (1).svg" alt="Parag | LinkedIn" width="21px"/>
-  </a>
+
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### 🤝Reach me out
+  <a href="https://www.linkedin.com/in/parag4141/">
+  <img align="left" src="images/icons8-linkedin (1).svg" alt="Parag | LinkedIn" width="21px"/>
+  </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
