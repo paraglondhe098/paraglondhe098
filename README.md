@@ -35,7 +35,12 @@ Java
 <a href="https://www.instagram.com/_raag3d">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Parag | LinkedIn" width="36px"/>
   </a>
-
+<a href="https://twitter.com/ParagLondhe6">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Parag | X" width="36px"/>
+  </a>
+<a href="https://www.kaggle.com/paraglondhe">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Cib-kaggle_%28CoreUI_Icons_v1.0.0%29.svg" alt="Parag | X" width="36px"/>
+  </a>
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
