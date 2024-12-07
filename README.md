@@ -9,8 +9,8 @@
 ## Hi there, I'm Parag 👋                                                                                                                            
 
 ### About me
-* ⚙️ I’m currently working on NLP and Transformer neural networks
-* 🤖 I'm currently learning Machine Learning and Artificial intelligence.
+* ⚙️ I’m currently working on computer vision and generative AI.
+* 🤖 AI ML enthusiast.
 * 🧬 Interested to explore NEAT (Neuroevolution of Augmenting topologies) to train AI in 3d simulation.
 * 🪸 Also a 3D animator.
 
