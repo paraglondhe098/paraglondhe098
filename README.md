@@ -22,6 +22,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Parag | LinkedIn" width="36px"/>
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="Parag | LinkedIn" width="36px"/>
 </a>
+..
 
 ### Reach me out
 
