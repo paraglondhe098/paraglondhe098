@@ -8,7 +8,7 @@
 
 ## Hi there, I'm Parag 👋                                                                                                                            
 
-### About me
+### ✨About me✨
 * ⚙️ My skills: Python, C++, SQL, data analytics, machine learning, deep learning, image processing, computer vision, NLP, LLMs, LLMOps, Gen AI, AIOps. 
 * 🤖 Looking forward to work as an AI engineer, Data Scientist, or Computer Vision Engineer to deliver business needs and also grow myself by gaining diverse knowledge.
 * 🧬 Interested to explore reinforcement learning, genetic algorithms and NEAT (Neuroevolution of Augmenting topologies).
@@ -33,13 +33,16 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="Parag | LinkedIn" width="36px"/>
   </a>
 <a href="https://www.instagram.com/_raag3d">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Parag | LinkedIn" width="36px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Parag | Instagram" width="36px"/>
   </a>
 <a href="https://twitter.com/ParagLondhe6">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Parag | X" width="36px"/>
   </a>
 <a href="https://www.kaggle.com/paraglondhe">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Cib-kaggle_%28CoreUI_Icons_v1.0.0%29.svg" alt="Parag | X" width="36px"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Cib-kaggle_%28CoreUI_Icons_v1.0.0%29.svg" alt="Parag | Kaggle" width="36px"/>
+  </a>
+<a href="londhepb47@gmail.com">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Parag | Gmail" width="36px"/>
   </a>
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
