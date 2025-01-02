@@ -14,6 +14,7 @@
 * 🧬 Interested to explore reinforcement learning, genetic algorithms and NEAT (Neuroevolution of Augmenting topologies).
 * 🪸 Also a 3D animator.
 
+<!--
 ### Programming Languages
 <a href="none">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Parag | LinkedIn" width="10px"/>
@@ -23,6 +24,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="Parag | LinkedIn" width="36px"/>
 </a>
 ..
+-->
 
 ### Reach me out
 
