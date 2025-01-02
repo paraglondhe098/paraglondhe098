@@ -6,7 +6,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Parag | LinkedIn" width="10px"/>
   </a>
 
-## Hi there, I'm Parag 👋                                                                                                                            
+## Namaste, I'm Parag 🫡                                                                                                                            
 
 ### ✨About me✨
 * ⚙️ Skills: Python, C++, SQL, data analytics, machine learning, deep learning, image processing, computer vision, NLP, LLMs, LLMOps, Gen AI, AIOps. 
