@@ -43,6 +43,9 @@
 <a href="londhepb47@gmail.com">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Parag | Gmail" width="36px"/>
   </a>
+<a href="https://www.youtube.com/@Neuralogic-j8i">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/YouTube_full-color_icon_%282024%29.svg" alt="Parag | Gmail" width="36px"/>
+  </a>
 <!--
 **paraglondhe098/paraglondhe098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://www.kaggle.com/paraglondhe">
