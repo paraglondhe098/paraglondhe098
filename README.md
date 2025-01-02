@@ -4,7 +4,7 @@
   </a> 
   <a href="none">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Parag | LinkedIn" width="10px"/>
-  </a>:)
+  </a>.
 
 ## Hi there, I'm Parag 👋                                                                                                                            
 
