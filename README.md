@@ -12,7 +12,7 @@
 * ⚙️ Skills: Python, C++, SQL, data analytics, machine learning, deep learning, image processing, computer vision, NLP, LLMs, LLMOps, Gen AI, AIOps. 
 * 🤖 Looking forward to work as an AI engineer, Data Scientist, or Computer Vision Engineer to deliver business needs and also grow myself by gaining diverse knowledge.
 * 🧬 Interested to explore reinforcement learning, genetic algorithms and NEAT (Neuroevolution of Augmenting topologies).
-* 🪸 Also a 3D animator.
+* 🦄 Proficient in efficiently pre-training, fine-tuning, and utilizing open LLMs. Experienced in developing Gen AI applications using agentic AI, vector databases, and RAG.
 
 <!--
 ### Programming Languages
