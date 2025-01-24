@@ -31,9 +31,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Java Script](https://img.shields.io/badge/-Java%20Script-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)&nbsp;\
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)&nbsp;\
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=TensorFlow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
@@ -45,11 +43,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext)
 ![PostgreSQL](https://img.shields.io/badge/-Postgre-333333?style=flat&logo=PostgreSQL)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
-![Lightroom](https://img.shields.io/badge/-Lightroom-333333?style=flat&logo=adobe-lightroom)
 
 
 ### Connect with me
