@@ -10,9 +10,9 @@
 
 ### ✨About me✨
 * 🌱 I'm currently working on advanced computer vision and generative AI.
-* 🤖 Looking forward to work as an AI engineer, Data Scientist, or Computer Vision Engineer to deliver business needs and also grow myself by gaining diverse knowledge.
+* 🤖 Looking forward to work as an AI engineer, Data Scientist, or Computer Vision Engineer to contribute my knowledge for development of AI.
 * 🧬 Interested to explore reinforcement learning, genetic algorithms and NEAT (Neuroevolution of Augmenting topologies).
-* 🦄 Proficient in efficiently pre-training, fine-tuning, and utilizing open LLMs. Experienced in developing Gen AI applications using agentic AI, vector databases, and RAG.
+* 🦄 Proficient in efficiently pre-training, fine-tuning, and utilizing open LLMs.
 * 🎥 In my free time, I pursue Video Editing, 3D Animation, and Content Writing as hobbies/side hustles.
 * 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1--YB2_xyg9uvjgI1tor-SDV9X80XOk1b/view) for more details about me. I'm open to feedback and suggestions!
 
