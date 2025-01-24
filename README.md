@@ -26,7 +26,7 @@
 ..
 -->
 
-### Reach me out
+### Connect with me
 
 <a href="www.github.com">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Parag | LinkedIn" width="10px"/>
