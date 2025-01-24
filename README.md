@@ -28,21 +28,23 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)&nbsp;\
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)&nbsp;\
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=TensorFlow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)\
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;\
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)&nbsp;
+![Ultralytics](https://img.shields.io/badge/-Ultralytics-333333?style=flat&logo=Ultralytics)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=HuggingFace)&nbsp;\
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext)
-![PostgreSQL](https://img.shields.io/badge/-Postgre-333333?style=flat&logo=PostgreSQL)
 
 
 ### Connect with me
