@@ -36,7 +36,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)&nbsp;\
-![scikit-learn](https://img.shields.io/badge/-scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=TensorFlow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;\
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)&nbsp;
