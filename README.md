@@ -46,12 +46,11 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=HuggingFace)&nbsp;\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-<!--
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=after-effects)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=premiere-pro)&nbsp;
--->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
