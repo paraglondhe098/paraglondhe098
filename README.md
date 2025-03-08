@@ -6,7 +6,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" alt="Parag | LinkedIn" width="10px"/>
   </a>
 
-## Namaste! I'm Parag 🫡                                                                                                                            
+## Hello there! I'm Parag 🫡                                                                                                                            
 
 ### ✨About me✨
 * 🌱 I'm currently working on advanced computer vision and generative AI.
