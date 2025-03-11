@@ -52,7 +52,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)&nbsp;\
 ![Linux|Unix](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)&nbsp;\
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)&nbsp;\
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)&nbsp;
 ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-333333?style=flat&logo=weightsandbiases)&nbsp;
