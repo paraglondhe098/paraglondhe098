@@ -34,10 +34,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)&nbsp;
+![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)&nbsp;\
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)&nbsp;\
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)&nbsp;
+![ONNX](https://img.shields.io/badge/-ONNX-333333?style=flat&logo=onnx)&nbsp;\
 ![Scikit-Learn](https://img.shields.io/badge/-scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=TensorFlow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)&nbsp;\
@@ -46,10 +48,19 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=HuggingFace)&nbsp;\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)&nbsp;\
+![Linux|Unix](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)&nbsp;\
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-333333?style=flat&logo=mlflow)&nbsp;
+![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-333333?style=flat&logo=weightsandbiases)&nbsp;
+<!--
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=after-effects)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=flat&logo=premiere-pro)&nbsp;
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
