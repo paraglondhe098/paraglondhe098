@@ -38,7 +38,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)&nbsp;\
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)&nbsp;
 ![ONNX](https://img.shields.io/badge/-ONNX-333333?style=flat&logo=onnx)&nbsp;\
 ![Scikit-Learn](https://img.shields.io/badge/-scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=TensorFlow)&nbsp;
